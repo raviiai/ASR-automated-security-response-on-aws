@@ -1,0 +1,40 @@
+# build
+/deployment/global-s3-assets/
+/deployment/open-source/
+/deployment/regional-s3-assets/
+/deployment/setenv.sh
+/deployment/temp/
+
+# test
+/deployment/test/coverage-reports/
+
+# Typescript
+/source/dist/
+*.d.ts
+*.js
+
+# config
+!.eslintrc.js
+
+# Node
+node_modules/
+
+# CDK
+cdk.out/
+
+# Jest
+coverage/
+
+# Python
+.venv/
+__pycache__/
+*.egg-info/
+
+# pytest
+.coverage
+
+# IDE
+.vscode/
+
+# system
+.DS_Store

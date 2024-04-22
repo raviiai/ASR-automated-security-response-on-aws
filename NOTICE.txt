@@ -1,0 +1,130 @@
+Automated Security Response on AWS
+
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Licensed under the Apache License Version 2.0 (the "License"). You may not use this file except
+in compliance with the License. A copy of the License is located at http://www.apache.org/licenses/
+or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, express or implied. See the License for the
+specific language governing permissions and limitations under the License.
+
+**********************
+THIRD PARTY COMPONENTS
+**********************
+This software includes third party software subject to the following copyrights:
+
+@aws-cdk/aws-servicecatalogappregistry-alpha under the Apache License 2.0
+@cdklabs/cdk-ssm-documents under the Apache License 2.0
+@types/jest under the MIT License
+@types/js-yaml under the MIT License
+@types/node under the MIT License
+@types/prettier under the MIT License
+@typescript-eslint/eslint-plugin under the MIT License
+aws-cdk under the Apache License 2.0
+aws-cdk-lib under the Apache License 2.0
+cdk-nag under the Apache License 2.0
+constructs under the Apache License 2.0
+eslint under the MIT License
+eslint-config-prettier under the MIT License
+eslint-plugin-header under the MIT License
+eslint-plugin-import under the MIT License
+eslint-plugin-prettier under the MIT License
+jest under the MIT License
+js-yaml under the MIT License
+source-map-support under the MIT License
+ts-jest under the MIT License
+ts-node under the MIT License
+typescript under the Apache License 2.0
+
+attrs under the MIT License
+aws-lambda-powertools under the MIT License
+awscli under the Apache License 2.0
+boto3 under the Apache License 2.0
+boto3-stubs-lite under the MIT License
+botocore under the Apache License 2.0
+botocore-stubs under the MIT License
+cffi under the MIT License
+colorama under the BSD 3-Clause "New" or "Revised" License
+coverage under the Apache License 2.0
+cryptography under the Apache License 2.0
+docutils under the Creative Commons Public Domain Dedication
+exceptiongroup under the MIT License
+iniconfig under the MIT License
+Jinja2 under the BSD 3-Clause "New" or "Revised" License
+jmespath under the MIT License
+MarkupSafe under the BSD 3-Clause "New" or "Revised" License
+moto under the Apache License 2.0
+mypy-boto3-s3 under the MIT License
+pip under the MIT License
+pluggy under the MIT License
+py-partiql-parser under the MIT License
+pyasn1 under the BSD 2-Clause "Simplified" License
+pycparser under the BSD 3-Clause "New" or "Revised" License
+pytest under the MIT License
+pytest-cov under the MIT License
+pytest-env under the MIT License
+pytest-mock under the MIT License
+python-dateutil under the Apache License 2.0 and the BSD 3-Clause "New" or "Revised" License
+responses under the Apache License 2.0
+rsa under the Apache License 2.0
+s3transfer under the Apache License 2.0
+setuptools under the MIT License
+six under the MIT License
+tomli under the MIT License
+types-PyYAML under the Apache License 2.0
+types-awscrt under the MIT License
+types-s3transfer under the MIT License
+typing_extensions under the Python Software Foundation License 2.0
+urllib3 under the MIT License
+Werkzeug under the BSD 3-Clause "New" or "Revised" License
+virtualenv under the MIT License
+Jinja2 under the BSD 3-Clause
+MarkupSafe under the BSD 3-Clause
+Werkzeug under the BSD 3-Clause
+boolean.py under the BSD-2-Clause
+botocore-stubs under the MIT License
+cffi under the MIT License
+coverage under the Apache License 2.0
+cryptography under the Apache License 2.0 and the BSD 3-Clause
+exceptiongroup under the MIT License
+iniconfig under the MIT License
+license-expression under the Apache License 2.0
+mypy-boto3-s3 under the MIT License
+pluggy under the MIT License
+py-partiql-parser under the MIT License
+pycparser under the BSD 3-Clause
+responses under the Apache License 2.0
+tomli under the MIT License
+types-PyYAML under the Apache License 2.0
+types-awscrt under the MIT License
+types-s3transfer under the MIT License
+typing_extensions under the  Python Software Foundation License
+xmltodict under the MIT License
+aiohttp under the Apache License 2.0
+aiosignal under the Apache License 2.0
+async-timeout under the Apache License 2.0
+black under the MIT License
+cachetools under the MIT License
+click under the BSD 3-Clause
+distlib under the Python Software Foundation License
+docker under the Apache License 2.0
+flake8 under the MIT License
+frozenlist under the Apache License 2.0
+isort under the MIT License
+mccabe under the MIT License
+multidict under the Apache License 2.0
+mypy-boto3-cloudformation under the MIT License
+mypy-boto3-cloudfront under the MIT License
+mypy-boto3-cloudwatch under the MIT License
+mypy-boto3-ec2 under the MIT License
+mypy-boto3-iam under the MIT License
+mypy-boto3-sns under the MIT License
+mypy-boto3-ssm under the MIT License
+mypy-boto3-sts under the MIT License
+mypy-extensions under the MIT License
+platformdirs under the MIT License
+pycodestyle under the MIT License
+pyflakes under the MIT License
+pyproject-api under the MIT License
+tox under the MIT License
+types-urllib3 under the Apache License 2.0
+yarl under the Apache License 2.0
